@@ -1,6 +1,6 @@
 # :drop_of_blood::syringe: Stroke Analysis and Predictions :syringe::drop_of_blood:
 
-![Banner](https://imgur.com/zuD3rG7)
+![Banner](https://imgur.com/a/hcPKuCP)
 
 ### Description: 
 This analysis looks at number of factors that affect the occurence of stroke in patients. EDA and Prediction on stroke was achieved based on these factors. The dataset I used is [here](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) from Kaggle. 
