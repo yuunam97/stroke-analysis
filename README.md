@@ -77,4 +77,5 @@ The dataset I used is [here](https://www.kaggle.com/datasets/fedesoriano/stroke-
 
 ### Credits
 1. [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
-2. Inspirations from [Josh](https://www.kaggle.com/code/joshuaswords/predicting-a-stroke-shap-lime-explainer-eli5) from one of the author. 
+2. Inspirations from [Josh](https://www.kaggle.com/code/joshuaswords/predicting-a-stroke-shap-lime-explainer-eli5).
+3. EDA on Stroke by [Zhe Yeap](https://towardsdatascience.com/step-by-step-exploratory-data-analysis-on-stroke-dataset-840aefea8739)
